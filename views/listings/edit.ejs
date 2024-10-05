@@ -20,7 +20,9 @@
                 <div class="mb-3">
                     <label for="image" class="form-label">Image</label>
                     <input class="form-control" type="text" name="listing[image]" placeholder="Enter Image Url/Link"
-                        value="<%=listing.image%>">
+                        required value="<%=listing.image%>">
+                    <div class="invalid-feedback">Please Enter a Valid Link For Image</div>
+
                 </div>
 
                 <div class="row">
@@ -50,5 +52,6 @@
 
                 <button type=" submit" class="btn btn-dark edit-btn mt-3">Edit</button>
             </form>
-        </div>
+        </div> 
     </div>
+    <script src="/js/script.js"></script>
