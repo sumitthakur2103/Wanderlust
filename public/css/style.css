@@ -64,7 +64,7 @@ body {
 
 /* card */
 
-.card {
+.listing-card {
     border: none !important;
     margin-bottom: 2rem;
 }
@@ -111,14 +111,15 @@ body {
 
 
 /* Show-Page */
-.show-img{
+.show-img {
     height: 30vh;
 }
 
-.btns{
+.btns {
     display: flex;
 }
-.show-card{
+
+.show-card {
     padding-left: 0;
     padding-right: 0;
 }
