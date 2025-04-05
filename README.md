@@ -47,11 +47,10 @@ Check out the live version of the project:
 
 1. **Clone the Repository**:
 
-```bash
-git clone https://github.com/sumitthakur2103/Wanderlust.git
-cd Wanderlust
-```
-
+   ```bash
+   git clone https://github.com/sumitthakur2103/Wanderlust.git
+   cd Wanderlust
+   ```
 
 2. **Install Dependencies**:
    
@@ -59,11 +58,13 @@ cd Wanderlust
      cd Wanderlust
      npm install
      ```
+
 3. **Environment Configuration**:
 
-Update MongoDB connection string in src/app.js.
-
-
+     ```bash
+       Update MongoDB connection string in src/app.js.
+     ```
+ 
 4. **Run the Application:**:
 
     ```bash
@@ -72,6 +73,10 @@ Update MongoDB connection string in src/app.js.
 
 5. **Access the Application**:
 
-Open your browser and navigate to http://localhost:3000.
+    ```bash
+       Open your browser and navigate to http://localhost:3000.
+     ```
+ 
+
 
 
