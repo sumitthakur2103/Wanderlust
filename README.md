@@ -78,5 +78,7 @@ Check out the live version of the project:
      ```
  
 
+## Contact
+For any queries or contributions, feel free to reach out at : tsumit0505@gmail.com, sumitthakur8511@gmail.com.
 
 
